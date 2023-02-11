@@ -1,0 +1,5 @@
+В якості домашки прикріпляю посилання на задачку на сайті hackerrank.com
+
+В якості виконаної домашки пришліть посиляння на git репозиторій із вирішеною задачкою
+
+https://www.hackerrank.com/challenges/java-lambda-expressions/problem
